@@ -1,4 +1,4 @@
-# Hackintosh for xiaoxin pro16 2021 -ACH
+# Hackintosh for i7 10700kf
 
 
 
